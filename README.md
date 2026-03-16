@@ -7,13 +7,13 @@ This project demonstrates the basic compiler pipeline.
 ## Compiler Pipeline
 
 ToyLang Code
-      ↓
+↓
 Lexer (Tokenization)
-      ↓
-Parser (Builds AST)
-      ↓
+↓
+Parser (Builds Abstract Syntax Tree)
+↓
 Code Generator
-      ↓
+↓
 Python Code Execution
 
 ## Example ToyLang Code
