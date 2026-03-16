@@ -20,13 +20,16 @@ Python Code Execution
 
 ## Example ToyLang Code
 
+```
 let a = 10
 let b = 5
 print a + b
+```
 
 ## Output
-
+```
 15
+```
 
 ## Features
 
